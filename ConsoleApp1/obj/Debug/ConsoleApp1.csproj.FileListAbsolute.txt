@@ -1,0 +1,7 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
