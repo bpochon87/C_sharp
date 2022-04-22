@@ -1,0 +1,7 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Practice\bin\Debug\Practice.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Practice\bin\Debug\Practice.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Practice\bin\Debug\Practice.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Practice\obj\Debug\Practice.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Practice\obj\Debug\Practice.pdb
