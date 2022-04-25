@@ -1,88 +1,67 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace step229
+
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main()
+        //int[] testScores = { 99, 98, 54, 88, 66, 72, 100, 33, 88, 77, 68 };
+
+        //for (int i = 0; i < testScores.Length; i++)
+        //{
+        //    if (testScores[i] > 85)
+        //    {
+        //        Console.WriteLine("Passing test score: " + testScores[i]);
+        //    }
+        //}
+        //Console.ReadLine();
+
+        //List<int> testScores = new List<int>();
+
+        //testScores.Add(98);
+        //testScores.Add(99);
+        //testScores.Add(87);
+        //testScores.Add(56);
+        //testScores.Add(77);
+        //testScores.Add(94);
+        //testScores.Add(86);
+
+        //foreach (int score in testScores)
+        //{
+        //    if (score > 85)
+        //    {
+        //        Console.WriteLine("Passing test score." + score);
+        //    }
+        //}
+        //Console.ReadLine();
+
+        //List<string> names = new List<string>() { "Brady", "Sara", "Suerte", "Ron", "Dale", "Terry", "John" };
+
+        //foreach (string name in names)
+        //{
+        //    if (name == "Brady")
+        //    {
+        //        Console.WriteLine(name + " is a cool name.");
+        //    }
+        //}
+        //Console.ReadLine();
+
+        List<int> testScores = new List<int>() { 98, 99, 86, 87, 73, 73, 68, 36 };
+        List<int> passingScores = new List<int>();
+
+
+        foreach (int score in testScores)
         {
-            Console.WriteLine("Guess a number under 10: ");
-            int number = Convert.ToInt32(Console.ReadLine());
-            while (number <= 0 || number > 10)
+            if (score > 85)
             {
-                Console.WriteLine(number + " is not a valid number for this game!\n");
-                Main();
-                break;
+                passingScores.Add(score);
             }
-            bool isGuessed = false;
-
-            do
-            {
-                switch (number)
-                {
-                    case 1:
-                        Console.WriteLine("1 is incorrect.");
-                        Console.WriteLine("Please guess again:");
-                        number = Convert.ToInt32(Console.ReadLine());
-                        break;
-
-                    case 2:
-                        Console.WriteLine("2 is incorrect.");
-                        Console.WriteLine("Please guess again:");
-                        number = Convert.ToInt32(Console.ReadLine());
-                        break;
-
-                    case 3:
-                        Console.WriteLine("3 is incorrect.");
-                        Console.WriteLine("Please guess again:");
-                        number = Convert.ToInt32(Console.ReadLine());
-                        break;
-
-                    case 4:
-                        Console.WriteLine("4 is incorrect.");
-                        Console.WriteLine("Please guess again:");
-                        number = Convert.ToInt32(Console.ReadLine());
-                        break;
-
-                    case 5:
-                        Console.WriteLine("5 is incorrect.");
-                        Console.WriteLine("Please guess again:");
-                        number = Convert.ToInt32(Console.ReadLine());
-                        break;
-
-                    case 6:
-                        Console.WriteLine("6 is incorrect.");
-                        Console.WriteLine("Please guess again:");
-                        number = Convert.ToInt32(Console.ReadLine());
-                        break;
-
-                    case 8:
-                        Console.WriteLine("8 is incorrect.");
-                        Console.WriteLine("Please guess again:");
-                        number = Convert.ToInt32(Console.ReadLine());
-                        break;
-
-                    case 9:
-                        Console.WriteLine("9 is incorrect.");
-                        Console.WriteLine("Please guess again:");
-                        number = Convert.ToInt32(Console.ReadLine());
-                        break;
-
-                    case 10:
-                        Console.WriteLine("10 is incorrect.");
-                        Console.WriteLine("Please guess again:");
-                        number = Convert.ToInt32(Console.ReadLine());
-                        break;
-
-                    case 7:
-                        Console.WriteLine("7 is correct!");
-                        isGuessed = true;
-                        break;
-                }
-            }
-            while (isGuessed == false);
-            Console.Read();
         }
-            
-    }
+        
+
+
+
+    }            
 }
+

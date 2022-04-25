@@ -95,7 +95,7 @@ class step222
             // This if else loop will confirm that user input is not out of range of our list length. If it is, the function calls itself to restart.
             if (userListSelectedIndex <= 0 || userListSelectedIndex > countStringList -1)
             {
-                Console.WriteLine("Please reselect as your choice is beyond the list's length.");
+                Console.WriteLine("Please reselect as your choice is beyond the list's length.\n");
                 StringList();
             }
             else
