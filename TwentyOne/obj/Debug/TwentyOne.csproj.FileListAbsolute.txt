@@ -1,0 +1,7 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\TwentyOne\bin\Debug\TwentyOne.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\TwentyOne\bin\Debug\TwentyOne.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\TwentyOne\bin\Debug\TwentyOne.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\TwentyOne\obj\Debug\TwentyOne.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\TwentyOne\obj\Debug\TwentyOne.pdb
