@@ -8,39 +8,25 @@ namespace Calculator
 {
     public class MathematicalOperations
     {
-        public MathematicalOperations(int userNumOne, int userNumTwo)
+        // Addition method.
+        public int Add(int userNumber)
         {
-            // Addition
-            public static MathematicalOperations Add()
-            {
-                int sum = userNumOne + userNumTwo;
-                return sum;
-            }
-
-            // Subtraction
-            public static MathematicalOperations Subtract()
-            {
-                int difference = userNumOne - userNumTwo;
-                return difference;
-            }
-
-            // Multiplication
-            public static MathematicalOperations Multiply()
-            {
-                int product = userNumOne * userNumTwo;
-                return product;
-            }
-
-            // Division
-            public static MathematicalOperations Divide()
-            {
-                int quotient = userNumOne / userNumTwo;
-                return quotient;
-            }
-
+            int sum = userNumber + 10;
+            return sum;
         }
 
-        public int UserNumOne { get; }
-        public int UserNumTwo { get; }
+        // Subtraction method.
+        public int Subtract(int userNumber)
+        {
+            int difference = userNumber - 10;
+            return difference;
+        }
+
+        // Multiplication method.
+        public int Multiply(int userNumber)
+        {
+            int product = userNumber * 50;
+            return product;
+        }
     }
 }

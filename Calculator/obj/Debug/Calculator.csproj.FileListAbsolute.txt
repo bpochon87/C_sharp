@@ -1,0 +1,7 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Calculator\bin\Debug\Calculator.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Calculator\bin\Debug\Calculator.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Calculator\bin\Debug\Calculator.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Calculator\obj\Debug\Calculator.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Calculator\obj\Debug\Calculator.pdb

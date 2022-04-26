@@ -11,13 +11,14 @@ namespace Calculator
         static void Main(string[] args)
         {
             Console.WriteLine("Please enter a number: ");
-            int userNumOne = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Please enter another number: ");
-            int userNumTwo = Convert.ToInt32(Console.ReadLine());
+            int userNumber = Convert.ToInt32(Console.ReadLine());
 
             // Instantiating new object of 'MathetmaticalOperations' class.
-            MathematicalOperations calculate = new MathematicalOperations(userNumOne, userNumTwo);
+            MathematicalOperations calculate = new MathematicalOperations();
+            Console.WriteLine(userNumber + " added to ten: " + calculate.Add(userNumber) + "\n" +
+                userNumber + " with ten subtracted from it: " + calculate.Subtract(userNumber) + "\n" +
+                userNumber + " multiplied by 50: " + calculate.Multiply(userNumber) + ".");
+            Console.ReadLine();
         }
     }
 }
