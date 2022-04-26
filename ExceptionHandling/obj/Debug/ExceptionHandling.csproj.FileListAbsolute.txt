@@ -1,0 +1,7 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

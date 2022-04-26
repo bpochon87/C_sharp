@@ -1,0 +1,6 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step256\bin\Debug\Step256.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step256\bin\Debug\Step256.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step256\bin\Debug\Step256.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step256\obj\Debug\Step256.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step256\obj\Debug\Step256.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step256\obj\Debug\Step256.pdb

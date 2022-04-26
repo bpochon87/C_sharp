@@ -1,0 +1,7 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step263\bin\Debug\Step263.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step263\bin\Debug\Step263.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step263\bin\Debug\Step263.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step263\obj\Debug\Step263.csproj.AssemblyReference.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step263\obj\Debug\Step263.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step263\obj\Debug\Step263.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step263\obj\Debug\Step263.pdb
