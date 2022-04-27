@@ -15,18 +15,19 @@ namespace Calculator
             return sum;
         }
 
-        // Subtraction method.
-        public int Subtract(int userNumber)
+        // Double (decimal) addition method.
+        public int Add(double userDecimal)
         {
-            int difference = userNumber - 10;
-            return difference;
+            double sum = userDecimal + 624.3;
+            return (int)sum;
         }
 
         // Multiplication method.
-        public int Multiply(int userNumber)
+        public int Add(string userString)
         {
-            int product = userNumber * 50;
-            return product;
+            int userInteger = Convert.ToInt32(userString);
+            int sum = userInteger + 23850;
+            return sum;
         }
     }
 }
