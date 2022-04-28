@@ -1,0 +1,7 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step280\bin\Debug\Step280.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step280\bin\Debug\Step280.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step280\bin\Debug\Step280.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step280\obj\Debug\Step280.csproj.AssemblyReference.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step280\obj\Debug\Step280.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step280\obj\Debug\Step280.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step280\obj\Debug\Step280.pdb

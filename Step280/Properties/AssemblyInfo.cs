@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Step281")]
+[assembly: AssemblyTitle("Step280")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Step281")]
+[assembly: AssemblyProduct("Step280")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c504bdf0-0be6-4095-8e65-b5cf18ffbb2f")]
+[assembly: Guid("d1090226-b4f3-4b5f-92cd-b952c9457d1e")]
 
 // Version information for an assembly consists of the following four values:
 //

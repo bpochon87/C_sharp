@@ -1,7 +1,0 @@
-D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step281\bin\Debug\Step281.exe.config
-D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step281\bin\Debug\Step281.exe
-D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step281\bin\Debug\Step281.pdb
-D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step281\obj\Debug\Step281.csproj.AssemblyReference.cache
-D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step281\obj\Debug\Step281.csproj.CoreCompileInputs.cache
-D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step281\obj\Debug\Step281.exe
-D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step281\obj\Debug\Step281.pdb
