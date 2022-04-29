@@ -11,15 +11,22 @@ namespace TwentyOne
         static void Main(string[] args)
         {
             // Created object deck and then called its class method 'Shuffle'.
-            Deck deck = new Deck();
-            deck.Shuffle();
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine($"Length of deck is {deck.Cards.Count}.");
+            Game game = new Game();
+            game.Players = new List<string>() { "Brady", "Sara", "Dale", "Ron" };
+            game.ListPlayers();
+            game.Play();
             Console.ReadLine();
+
+            //Deck deck = new Deck();
+            //deck.Shuffle();
+
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine($"Length of deck is {deck.Cards.Count}.");
+            //Console.ReadLine();
         }
         
 
