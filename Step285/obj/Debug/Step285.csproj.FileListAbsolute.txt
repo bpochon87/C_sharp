@@ -1,0 +1,7 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step285\obj\Debug\Step285.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step285\bin\Debug\Step285.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step285\bin\Debug\Step285.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step285\bin\Debug\Step285.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step285\obj\Debug\Step285.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step285\obj\Debug\Step285.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step285\obj\Debug\Step285.csproj.AssemblyReference.cache
