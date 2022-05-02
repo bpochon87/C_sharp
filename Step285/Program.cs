@@ -12,13 +12,16 @@ namespace Step285
         {
             Math calculate = new Math();
 
+            // Declaring but not initializing out parameter.
+            double quotient;
+
             // Get user input to pass into 'Math' class method 'Divide'.
             Console.WriteLine("Please enter a number: ");
             double passedData1 = Convert.ToDouble(Console.ReadLine());
 
             // Calling on 'Math' class 'Divide' method while passing in one parameter.
             // The 'out' parameter will allow a returned value from our 'Divide' method within 'Math' class.
-            calculate.Divide(passedData1, out double quotient);
+            calculate.Divide(passedData1, out quotient);
             Console.WriteLine($"{passedData1} divided by two is {quotient}.");
             Console.ReadLine();
 
