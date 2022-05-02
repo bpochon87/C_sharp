@@ -10,12 +10,9 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            // Created object deck and then called its class method 'Shuffle'.
-
-            Game game = new Game();
-            game.Players = new List<string>() { "Brady", "Sara", "Dale", "Ron" };
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() { "Brady", "Sara", "Dale Dee", "Ron" };
             game.ListPlayers();
-            game.Play();
             Console.ReadLine();
 
             //Deck deck = new Deck();
@@ -28,15 +25,5 @@ namespace TwentyOne
             //Console.WriteLine($"Length of deck is {deck.Cards.Count}.");
             //Console.ReadLine();
         }
-        
-
-        //public static Deck Shuffle(Deck deck, int times)
-        //{
-        //    for (int i = 0; i < times; i++)
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}
     }
 }

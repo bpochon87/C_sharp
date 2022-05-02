@@ -1,0 +1,7 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step302\bin\Debug\Step302.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step302\bin\Debug\Step302.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step302\bin\Debug\Step302.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step302\obj\Debug\Step302.csproj.AssemblyReference.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step302\obj\Debug\Step302.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step302\obj\Debug\Step302.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step302\obj\Debug\Step302.pdb
