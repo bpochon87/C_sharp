@@ -1,0 +1,6 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step369DateTime\bin\Debug\Step369DateTime.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step369DateTime\bin\Debug\Step369DateTime.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step369DateTime\bin\Debug\Step369DateTime.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step369DateTime\obj\Debug\Step369DateTime.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step369DateTime\obj\Debug\Step369DateTime.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step369DateTime\obj\Debug\Step369DateTime.pdb
