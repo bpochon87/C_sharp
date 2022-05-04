@@ -1,0 +1,7 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step337\bin\Debug\Step337.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step337\bin\Debug\Step337.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step337\bin\Debug\Step337.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step337\obj\Debug\Step337.csproj.AssemblyReference.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step337\obj\Debug\Step337.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step337\obj\Debug\Step337.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step337\obj\Debug\Step337.pdb
