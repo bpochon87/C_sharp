@@ -8,40 +8,38 @@ namespace Step337
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-
-            List<string> employees = new List<string>()
+            // Creating list of 'Employee' objects.
+            List<Employee> employees = new List<Employee>
             {
-                "ID 1 - Brady Pochon",
-                "ID 2 - Sara Pochon",
-                "ID 3 - Ron Pochon",
-                "ID 4 - Dale Dee Pochon",
-                "ID 5 - Jeremy Smith",
-                "ID 6 - Kelli Smith",
-                "ID 7 - Joe Burrows",
-                "ID 8 - Joe Stamm",
-                "ID 9 - Jesus Rodriguez",
-                "ID 10 - Osvaldo Marquez"
+                new Employee { ID = 1, firstName = "Brady", lastName = "Pochon" },
+                new Employee { ID = 2, firstName = "Jimmy", lastName = "Neutron" },
+                new Employee { ID = 3, firstName = "Dave", lastName = "Attell" },
+                new Employee { ID = 4, firstName = "Jeremy", lastName = "Smith" },
+                new Employee { ID = 5, firstName = "Joe", lastName = "Burrows" },
+                new Employee { ID = 6, firstName = "Kelli", lastName = "Smith" },
+                new Employee { ID = 7, firstName = "Corallis", lastName = "Vintage" },
+                new Employee { ID = 8, firstName = "Hugh", lastName = "Jackman" },
+                new Employee { ID = 9, firstName = "Joe", lastName = "Namath" },
+                new Employee { ID = 10, firstName = "Robert", lastName = "Cone" }
             };
-            
-            // 'foreach' loop iterating through list to find objects containing the string 'Joe'. Using lambda here as well.
-            foreach (string employee in employees)
+
+            List<Employee> joesOnly = new List<Employee>();
+            // Iterating through list via a for loop and finding objects with 'firstName' equal to 'Joe'.
+            foreach (Employee employee in employees)
             {
-                if (employee.Contains("Joe"))
+                // One any 'Joes' are found, they are added to our 'joesOnly' list.
+                if (employee.firstName == "Joe")
                 {
-                    Console.WriteLine(employee);
+                    joesOnly.Add(employee);
                 }
             }
-
-            // Lambda expression to find any list objects containing the string 'Joe'.
-            List<string> namedJoe = employees.FindAll(x => x.Contains("Joe"));
-            foreach (string joe in namedJoe)
-            {
-                Console.WriteLine(joe);
-            }
-
+            Console.WriteLine(joesOnly[0]);
             Console.ReadLine();
+
+            // Iterating through list via a Lambda expression to find objects containing 'firstName' 'Joe'.
+            
         }
     }
 }
