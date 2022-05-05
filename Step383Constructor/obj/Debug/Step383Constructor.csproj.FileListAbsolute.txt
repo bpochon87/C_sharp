@@ -1,0 +1,7 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step383Constructor\bin\Debug\Step383Constructor.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step383Constructor\bin\Debug\Step383Constructor.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step383Constructor\bin\Debug\Step383Constructor.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step383Constructor\obj\Debug\Step383Constructor.csproj.AssemblyReference.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step383Constructor\obj\Debug\Step383Constructor.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step383Constructor\obj\Debug\Step383Constructor.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step383Constructor\obj\Debug\Step383Constructor.pdb
