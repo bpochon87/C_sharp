@@ -41,22 +41,12 @@ namespace Step337
             // Creating an empty list.
             List<Employee> joesOnly1 = new List<Employee>();
             // Lambda expression iterating through employees list and grabbing all 'Employee' objects with 'firstName' equal to 'Joe'.
-            foreach (Employee joe in employees.FindAll(x => x.firstName == "Joe"))
-            {
-                // Adding 'Employee' objects that meet the above condition to empty list.
-                joesOnly1.Add(joe);
-            }
+            joesOnly1 = employees.FindAll(x => x.firstName == "Joe");
 
             // Creating an empty list.
             List<Employee> idGreaterThan5 = new List<Employee>();
             // Lambda expression iterating through 'employees' list and grabbing all 'Employee' objects with 'ID' greater than 5.
-            foreach (Employee employee in employees.FindAll(x => x.ID > 5))
-            {
-                // Adding 'Employee' objects that meet the above condition to empty list.
-                idGreaterThan5.Add(employee);
-            }
-
-
+            idGreaterThan5 = employees.FindAll(x => x.ID > 5);
         }
     }
 }
