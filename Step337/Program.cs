@@ -35,6 +35,7 @@ namespace Step337
                 {
                     // Adding 'Employee' objects that meet the above condition to empty list.
                     joesOnly.Add(employee);
+                    Console.WriteLine(employee.ID + " " + employee.firstName + " " + employee.lastName);
                 }
             }
 
@@ -43,10 +44,24 @@ namespace Step337
             // Lambda expression iterating through employees list and grabbing all 'Employee' objects with 'firstName' equal to 'Joe'.
             joesOnly1 = employees.FindAll(x => x.firstName == "Joe");
 
+            // Loop iterating through 'joesOnly1' list and print each list object.
+            foreach (Employee joe in joesOnly1)
+            {
+                Console.WriteLine(joe.ID + " " + joe.firstName + " " + joe.lastName);
+            }
+
             // Creating an empty list.
             List<Employee> idGreaterThan5 = new List<Employee>();
             // Lambda expression iterating through 'employees' list and grabbing all 'Employee' objects with 'ID' greater than 5.
             idGreaterThan5 = employees.FindAll(x => x.ID > 5);
+
+            // Loop iterating through 'idGreaterThan5' list and print each list object.
+            foreach (Employee joe in idGreaterThan5)
+            {
+                Console.WriteLine(joe.ID + " " + joe.firstName + " " + joe.lastName);
+            }
+
+            Console.ReadLine();
         }
     }
 }
