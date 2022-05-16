@@ -46,10 +46,12 @@ namespace CarInsurance.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
+        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType")] Insuree insuree)
         {
             if (ModelState.IsValid)
             {
+                // Quote will be compiled based on user entries using method 'GenerateQuote'.
+                insuree.Quote = GenerateQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -124,19 +126,15 @@ namespace CarInsurance.Controllers
             base.Dispose(disposing);
         }
 
-        // 'id' as a parameter will give us access to that particular insuree.
-        public ActionResult GenerateQuote(int id)
+        // 'insuree' as a parameter will give us access to that particular insuree.
+        public decimal GenerateQuote(Insuree insuree)
         {
             // Our baseline quote cost.
             decimal totalQuote = 50;
 
-            // Instantiating an object of Insuree via the 'id' passed into method.
-            Insuree insuree = db.Insurees.Find(id);
-
             // Getting current age of insuree.
             var today = DateTime.Today;
             var ageOfInsuree = today.Year - insuree.DateOfBirth.Year;
-            Console.WriteLine(ageOfInsuree);
 
             // 'if else' statements finding costs related to age.
             if (ageOfInsuree <= 18)
@@ -182,20 +180,21 @@ namespace CarInsurance.Controllers
             decimal speedingTicketCost = insuree.SpeedingTickets * 10;
             totalQuote += speedingTicketCost;
 
+            // If insuree has a DUI, add 25% to total cost.
             var hasDui = insuree.DUI;
             if (hasDui == true)
             {
                 totalQuote += totalQuote * (decimal).25;
             }
 
+            // If insuree wants full coverage, add 25% to total cost.
             var fullCoverage = insuree.CoverageType;
             if (fullCoverage == true)
             {
                 totalQuote += totalQuote * (decimal).25;
             }
 
-            insuree.Quote = totalQuote;
-            return null;
+            return totalQuote;
         }
     }
 }
