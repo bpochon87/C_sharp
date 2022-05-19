@@ -1,0 +1,12 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\FinalChallengeSubmission.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\FinalChallengeSubmission.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\FinalChallengeSubmission.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\EntityFramework.dll
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\EntityFramework.xml
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalChallengeSubmission.csproj.AssemblyReference.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalChallengeSubmission.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalChallengeSubmission.csproj.CopyComplete
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalChallengeSubmission.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalChallengeSubmission.pdb
