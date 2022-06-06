@@ -1,0 +1,26 @@
+﻿@* To access the model passed from the controller, add @model ToolboxDataAttribute
+    the top of the .cshtml file along with the data type (model is lowercase) *@
+
+@model TechAcadStudentsMVC.Models.Instructor
+
+
+@{
+    ViewBag.Title = "Instructor";
+}
+
+<h2>Instructor</h2>
+
+<h5>
+    Details for Instructor with ID: @ViewBag.Id
+</h5>
+
+<p>
+    Further details about the best Instructor:
+</p>
+<ul>
+    @* To reference the model passed from the controller, just type @Model (must be capitalized) *@
+    <li>Another Id: @Model.Id</li>
+    <li>First name: @Model.FirstName</li>
+    <li>Last name: @Model.LastName</li>
+</ul>
+

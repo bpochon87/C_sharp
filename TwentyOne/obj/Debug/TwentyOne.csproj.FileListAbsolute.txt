@@ -5,3 +5,6 @@ D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\TwentyOne\obj\Debug\TwentyOne.csproj
 D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\TwentyOne\obj\Debug\TwentyOne.exe
 D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\TwentyOne\obj\Debug\TwentyOne.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\TwentyOne\bin\Debug\Casino.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\TwentyOne\bin\Debug\Casino.dll

@@ -1,0 +1,7 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step331\bin\Debug\Step331.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step331\bin\Debug\Step331.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step331\bin\Debug\Step331.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step331\obj\Debug\Step331.csproj.AssemblyReference.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step331\obj\Debug\Step331.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step331\obj\Debug\Step331.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step331\obj\Debug\Step331.pdb

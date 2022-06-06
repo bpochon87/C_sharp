@@ -1,0 +1,6 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step388TryCatch\bin\Debug\Step388TryCatch.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step388TryCatch\bin\Debug\Step388TryCatch.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step388TryCatch\bin\Debug\Step388TryCatch.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step388TryCatch\obj\Debug\Step388TryCatch.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step388TryCatch\obj\Debug\Step388TryCatch.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Step388TryCatch\obj\Debug\Step388TryCatch.pdb

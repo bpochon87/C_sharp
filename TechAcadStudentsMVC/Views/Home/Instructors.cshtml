@@ -1,0 +1,25 @@
+﻿@* The @ sign means C# will follow. Here we're adding a using statement so we can refer
+    to the Instructor class without prefixing it every time with TechAcadStudentsMVC.Models'*@
+
+@using TechAcadStudentsMVC.Models
+
+@* Below any using statements, we define our model. @model means there's a model and following
+    it is its data type *@
+@model List<Instructor>
+
+@{
+    ViewBag.Title = "Instructors";
+}
+
+<h2>Instructors</h2>
+
+@* After you declare your model at the top with @model, you can reference it anywhere in the HTML with the
+    word Model. As you can see in this, Razor can figure out when you're using HTML, so there's
+    no need to close the curly bracec. Just be sure to use the @ sign again to reference more C# *@
+
+@{ 
+    foreach(Instructor instructor in Model)
+            {
+                <h4>@instructor.FirstName</h4>
+            }
+}

@@ -1,0 +1,6 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Casino\bin\Debug\Casino.dll
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Casino\bin\Debug\Casino.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Casino\obj\Debug\Casino.dll
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Casino\obj\Debug\Casino.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache

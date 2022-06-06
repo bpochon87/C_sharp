@@ -1,0 +1,6 @@
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\LogToFile\bin\Debug\LogToFile.exe.config
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\LogToFile\bin\Debug\LogToFile.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\LogToFile\bin\Debug\LogToFile.pdb
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\LogToFile\obj\Debug\LogToFile.csproj.CoreCompileInputs.cache
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\LogToFile\obj\Debug\LogToFile.exe
+D:\Users\bpoch\Documents\GitHub\TTA_C_sharp\LogToFile\obj\Debug\LogToFile.pdb
